@@ -21,4 +21,4 @@ The steps I undertook to complete this exercise were to create the following AWS
 
 
  Matthew Springer
-![image](https://github.com/mspringer7/uchicago/assets/174819764/26ff4791-169e-4366-a022-e531adec589d)
+
